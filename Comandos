@@ -1,4 +1,3 @@
-
 ls: Enlista los archivos
 mkdir: Crea carpetas
 touch: Crea archivos
@@ -18,3 +17,4 @@ java nombredelarchivo.java: Para corre un programa
 git clone: Descargar carpetas de GitHub
 git push -u orig master o main: Para subir cambios de la carpeta a GitHub
 git pull origin main o master: Para descargar los cambios de un archivo
+
