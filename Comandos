@@ -1,0 +1,20 @@
+
+ls: Enlista los archivos
+mkdir: Crea carpetas
+touch: Crea archivos
+cd: Cambia de directorio
+nano: Edita los archivos 
+   *Control + o: Guardar el archivo (dar un enter después de guardar)
+   *Control + x: Salir del archivo
+clear: Limpia la terminal
+pwd: Para ver en donde estas
+cat: Para ver que tiene un archivo
+git status: Ver cual esta listo para realizar commits
+git add: Es para preparar para el commit
+git commin -m "Comentario": Para realizar commit
+git log: Muestra los commits que realizaste
+javac -g nombredelarchivo.java: Para comparar el archivo
+java nombredelarchivo.java: Para corre un programa
+git clone: Descargar carpetas de GitHub
+git push -u orig master o main: Para subir cambios de la carpeta a GitHub
+git pull origin main o master: Para descargar los cambios de un archivo
